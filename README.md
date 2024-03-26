@@ -1,3 +1,4 @@
+index.html
 <!DOCTYPE html>
 <html>
     <head>
@@ -395,3 +396,471 @@ Last Updated on 28 Oct 2023
 
    </body>
 </html>
+style1.css 
+#heading{
+    border-radius: 3px;
+    border-width: 3px;
+    height:100px;
+    background-color: brown;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+}
+#title{
+    margin-top:auto;
+    text-shadow: 9px 5px 12px darkblue;
+}
+#ss{
+    border-top: 2px rgb(255, 255, 6) dotted;
+    border-bottom: 2px rgb(255, 255, 6) dotted;
+    border-left: 2px rgb(255, 255, 6) dotted;
+    border-right: 2px rgb(255, 255, 6) dotted;
+    height: 300px;
+    border-width: 5px;
+    border-radius: 3px;
+}
+
+
+
+#book1{
+    border: 3px 2px solid;
+    border-color: bisque;
+    background-color: white;
+    height:400px;
+    border-radius: 3px;
+
+}
+#book{
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-right: 35px;
+    border-radius: 4px;
+    border-width: 3px;
+    box-shadow: 3px 2px 15px black;
+    float: left;
+}
+#logo{
+    margin-bottom: 3px;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+#book2{
+    border: 3px 2px solid;
+    border-color: bisque;
+    background-color:#9cc6c7;
+    height:400px;
+    border-radius: 3px;
+
+}
+#book3{
+    border: 3px 2px solid;
+    border-color: bisque;
+    background-color:#e1fda0;
+    height:400px;
+    border-radius: 3px;
+
+}
+#book4{
+    border: 3px 2px solid;
+    border-color: bisque;
+    background-color:tomato;
+    height:400px;
+    border-radius: 3px;
+
+}
+#book5{
+    border: 3px 2px solid;
+    border-color: bisque;
+    background-color:rgb(97, 110, 114);
+    height:420px;
+    border-radius: 3px;
+
+
+}
+#standby{
+    float: left;
+    margin-right: 5px;
+}
+#kiki{
+    border: 2px azure solid;
+}
+#loop{
+    text-shadow: 0px 0px 15px rgb(32, 9, 163);
+}
+#book6{
+    border: 3px 2px solid;
+    border-color: bisque;
+    background-color:rgb(80, 81, 76);
+    height:550px;
+    width: 380px;
+    border-radius: 3px;
+    float: left;
+    margin-right: 7px;
+    margin-left: 12px;
+    margin-bottom: 10px;
+
+
+}
+#book7{
+    border: 3px 2px solid;
+    border-color: bisque;
+    background-color:#9cc6c7;
+    height:550px;
+    width: 380px;
+    border-radius: 3px;
+    float: left;
+    margin-right: 9px;
+    margin-bottom: 6px;
+
+
+}
+#book8{
+    border: 3px 2px solid;
+    border-color: bisque;
+    background-color:blanchedalmond;
+    height:550px;
+    width: 380px;
+    border-radius: 3px;
+    margin-right: 7px;
+    float: left;
+    margin-bottom: 10px;
+}
+#sasha{
+    margin-left: 65px;
+    box-shadow: 3px 3px 12px black;
+    margin-bottom: 0px;
+}
+#sashi{
+    margin-left: 80px;
+}
+#sasha1{
+    margin-left: 65px;
+    box-shadow: 3px 3px 12px black;
+    margin-bottom: 0px;
+}
+#sasha2{
+    margin-left: 65px;
+    box-shadow: 3px 3px 12px black;
+    margin-bottom: 0px;
+}
+#book9{
+    border: 3px 2px solid;
+    border-color: bisque;
+    background-color:rgb(247, 245, 158);
+    height:550px;
+    width: 380px;
+    border-radius: 3px;
+    margin-right: 7px;
+    float: left;
+    margin-left: 12px;
+
+
+}
+#book10{
+    border: 3px 2px solid;
+    border-color: bisque;
+    background-color:orange;
+    height:550px;
+    width: 380px;
+    border-radius: 3px;
+    margin-right: 7px;
+    float: left;
+    margin-bottom: 8px;
+
+    
+
+
+}
+#book11{
+    border: 3px 2px solid;
+    border-color: bisque;
+    background-color:rgb(252, 183, 134);
+    height:550px;
+    width: 380px;
+    border-radius: 3px;
+    margin-right: 7px;
+    margin-bottom: 8px;
+    float: left;
+    
+
+
+}
+#sasha3{
+    margin-left: 65px;
+    box-shadow: 3px 3px 12px black;
+    margin-bottom: 0px;
+}
+#sasha4{
+    margin-left: 85px;
+    box-shadow: 3px 3px 12px black;
+    margin-bottom: 0px;
+}
+#sasha5{
+    margin-left: 75px;
+    box-shadow: 3px 3px 12px black;
+    margin-bottom: 0px;
+}
+#line{
+    border: 2px azure solid;
+    margin-top: 1150px;
+}
+#border{
+    margin-bottom: 12px;
+    background-color:rgb(255, 255, 0);
+    height: 30px;
+    text-shadow: 2px black;
+    font-size: 24px;
+}
+#book12{
+    border: 3px 2px solid;
+    border-color: bisque;
+    background-color:rgb(234, 214, 214);
+    height:400px;
+    border-radius: 3px;
+    width: 1180px;
+    margin-right: 25px;
+    margin-bottom: 8px;
+    margin-left: 12px;
+    
+}
+#sasha6{
+    margin-left: 75px;
+    box-shadow: 3px 3px 12px black;
+    float: left;
+    margin-right: 35px;
+    margin-top: 2px;
+}
+#sasha7{
+    margin-left: 18px;
+    box-shadow: 3px 3px 12px black;
+    float: left;
+    margin-right: 35px;
+   
+}
+#sasha8{
+    margin-left: 25px;
+    box-shadow: 3px 3px 12px black;
+    float: left;
+    margin-right:35px;
+ 
+}
+#sasha9{
+    margin-left: 25px;
+    box-shadow: 3px 3px 12px black;
+    float: left;
+    margin-right:35px;
+    margin-bottom: 15px;
+ 
+}
+#book13{
+    border: 3px 2px solid;
+    border-color: bisque;
+    background-color:rgb(234, 214, 214);
+    height:450px;
+    border-radius: 3px;
+    width: 1180px;
+    margin-right: 25px;
+    margin-bottom: 8px;
+    margin-left: 12px;
+    
+}
+#sasha10{
+    margin-left: 75px;
+    box-shadow: 3px 3px 12px black;
+    float: left;
+    margin-right:35px;
+    margin-bottom: 15px;
+ 
+}
+#sasha11{
+    margin-left: 35px;
+    box-shadow: 3px 3px 12px black;
+    float: left;
+    margin-right:35px;
+    margin-bottom: 15px;
+ 
+}
+#sasha12{
+    margin-left: 35px;
+    box-shadow: 3px 3px 12px black;
+    float: left;
+    margin-right:35px;
+    margin-bottom: 15px;
+ 
+}
+#sasha13{
+    margin-left: 35px;
+    box-shadow: 3px 3px 12px black;
+    float: left;
+    margin-right:35px;
+    margin-bottom: 15px;
+ 
+}
+#lineA{
+    margin-top: 10px;
+    border: 2px azure solid;
+}
+#borderA{
+    margin-bottom: 12px;
+    background-color:rgb(255, 255, 0);
+    height: 30px;
+    text-shadow: 2px black;
+    font-size: 24px;
+}
+#book14{
+    border-top: 2px black dotted;
+    border-bottom: 2px black dotted;
+    border-left: 2px black dotted;
+    border-right: 2px black dotted;
+    height: 390px;
+    width: 300px;
+    border-width: 5px;
+    border-radius: 3px;
+    background-color: azure;
+    float: left;
+    margin-left: 130px;
+}
+#sasha14{
+    margin-left: 25px;
+    box-shadow: 3px 3px 12px black;
+    float: left;
+    margin-right:20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+   
+ 
+}
+#book15{
+    border-top: 2px black dotted;
+    border-bottom: 2px black dotted;
+    border-left: 2px black dotted;
+    border-right: 2px black dotted;
+    height: 390px;
+    width: 300px;
+    border-width: 5px;
+    border-radius: 3px;
+    background-color: azure;
+    float: left;
+   
+}
+#sasha15{
+    margin-left: 25px;
+    box-shadow: 3px 3px 12px black;
+    float: left;
+    margin-right:20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+   
+ 
+}
+#book16{
+    border-top: 2px black dotted;
+    border-bottom: 2px black dotted;
+    border-left: 2px black dotted;
+    border-right: 2px black dotted;
+    height: 390px;
+    width: 300px;
+    border-width: 5px;
+    border-radius: 3px;
+    background-color: azure;
+    float: left;
+   
+}
+#sasha16{
+    margin-left: 25px;
+    box-shadow: 3px 3px 12px black;
+    float: left;
+    margin-right:20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+   
+ 
+}
+#book17{
+    border-top: 2px black dotted;
+    border-bottom: 2px black dotted;
+    border-left: 2px black dotted;
+    border-right: 2px black dotted;
+    height: 390px;
+    width: 300px;
+    border-width: 5px;
+    border-radius: 3px;
+    background-color: azure;
+    float: left;
+    margin-left: 130px;
+}
+#sasha17{
+    margin-left: 25px;
+    box-shadow: 3px 3px 12px black;
+    float: left;
+    margin-right:20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+   
+ 
+}
+#book18{
+    border-top: 2px black dotted;
+    border-bottom: 2px black dotted;
+    border-left: 2px black dotted;
+    border-right: 2px black dotted;
+    height: 390px;
+    width: 300px;
+    border-width: 5px;
+    border-radius: 3px;
+    background-color: azure;
+    float: left;
+   
+}
+#sasha18{
+    margin-left: 25px;
+    box-shadow: 3px 3px 12px black;
+    float: left;
+    margin-right:20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+   
+ 
+}
+#book19{
+    border-top: 2px black dotted;
+    border-bottom: 2px black dotted;
+    border-left: 2px black dotted;
+    border-right: 2px black dotted;
+    height: 390px;
+    width: 300px;
+    border-width: 5px;
+    border-radius: 3px;
+    background-color: azure;
+    float: left;
+   
+}
+#sasha19{
+    margin-left: 25px;
+    box-shadow: 3px 3px 12px black;
+    float: left;
+    margin-right:20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+   
+ 
+}
+#lineB{
+    margin-top: 900px;
+    border: 2px azure solid;
+}
+#last{
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    background-color: black;
+    color: azure;
+    height: 100px;
+}
+.huge {
+    font-size: 10px;
+}
